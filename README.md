@@ -29,4 +29,25 @@ My initial hypothesis is that customer churn is dependent on contract type.
 # Data Dictionary
 | Feature | Dictionary |
 |:--------|:-----------|
+|contract_type_id| The id number of each contract type for each customer in telco churn.
+|customer_id| The id number of each customer 
+|senior_citizen|	Determines a 1 for is a senior citizen and a 0 for not a senior citizen
+|internet_service_type_id|	The id for each internet service product offered.
+|payment_type_id|	The id for each payment type for customers.
+|monthly_charges|	The amount of monthly charges of each customer.
+|total_charges| The total amounnt from each customer
 |Tenure| The number of total months a customer churns.
+|gender| The gender of each customer M /or F
+|partner|
+|dependents|
+|phone_service|
+|multiple_services|
+|online_security|
+|device_protection|
+|tech_support|
+|streaming_tv|
+|streaming_movies|
+|paperless_billing|
+|churn|
+||
+||
