@@ -38,16 +38,15 @@ My initial hypothesis is that customer churn is dependent on contract type.
 |total_charges| The total amounnt from each customer
 |Tenure| The number of total months a customer churns.
 |gender| The gender of each customer M /or F
-|partner|
-|dependents|
-|phone_service|
-|multiple_services|
-|online_security|
-|device_protection|
-|tech_support|
-|streaming_tv|
-|streaming_movies|
-|paperless_billing|
-|churn|
-||
-||
+|partner| The number of each customer with a significant other on record.
+|dependents| The number of each customer with children on record.
+|phone_service| The number of each customer with a phone line added into their service.
+|multiple_services| The category of each customer with more than one phone service and no service at all.
+|online_security| The number of each customer with added online security into their service.
+|device_protection| The number of each customer with added device protection into their service.
+|tech_support| The number of each customer with added tech support into their service.
+|streaming_tv| The number of each customer with added streaming tv into their service.
+|streaming_movies| The number of each customer with added streaming movies into their service.
+|paperless_billing| The number of each customer with added paperless billing into their service.
+|churn| The number of each customer that has churned when the data was found.
+|contract_type| The type of contract(month to month, one year, two year) each customer has on record. 
